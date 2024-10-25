@@ -1,8 +1,8 @@
 -Ny name is Tomás Francisco<br>
--I work with PHP, Java and Node.js
--I have more familiarity with PHP
--I'm looking to learn more and collaborate 
--Currently working on a chatbot
+-I work with PHP, Java and Node.js<br>
+-I have more familiarity with PHP<br>
+-I'm looking to learn more and collaborate<br>
+-Currently working on a chatbot<br>
 
 <!---
 TF-Garcia/TF-Garcia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
